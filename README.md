@@ -52,6 +52,5 @@ protected void onCreate(Bundle savedInstanceState) {
 Ready! Now holding down the View as a parameter will start recording!
 
 # Depentions
-===
 
 In this project we used a library to create the Tooltip while holding the view of recording, to implement it just follow the [steps here:](https://github.com/sephiroth74/android-target-tooltip)
