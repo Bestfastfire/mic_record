@@ -2,7 +2,7 @@
 
 Simple way to record audio with native Android
 
-![Img Ex](https://ibb.co/Jqbrgjd)
+![Img Ex](https://i.ibb.co/bFyND53/Gravar-2019-05-03-18-01-46-628.gif)
 
 First of all we must add these 3 permissions in the manifest file:
 
