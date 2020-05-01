@@ -1,4 +1,4 @@
-# Mic-Record---Android
+# Mic Record - Android
 
 Simple way to record audio with native Android
 
